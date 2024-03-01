@@ -1,15 +1,1 @@
-> python-chess
-    > data
-        > classes
-            > pieces
-                /* Bishop.py
-                /* King.py
-                /* Knight.py
-                /* Pawn.py
-                /* Queen.py
-                /* Rook.py
-            /* Board.py
-            /* Piece.py
-            /* Square.py
-        > imgs
-    /* main.py
+
